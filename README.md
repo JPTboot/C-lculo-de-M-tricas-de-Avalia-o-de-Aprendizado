@@ -1,2 +1,2 @@
-# C-lculo-de-M-tricas-de-Avalia-o-de-Aprendizado
-Cálculo-de-Métricas-de-Avaliação-de-Aprendizado
+# Calculo-de-Metricas-de-Avaliacao-de-Aprendizado
+Calculo-de-Metricas-de-Avaliacao-de-Aprendizado
